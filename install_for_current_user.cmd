@@ -1,4 +1,4 @@
-::@echo off
+@echo off
 :: MADE BY Jabka-M (GitHub)
 
 curl https://raw.githubusercontent.com/Jabka-M/cmd_profile/main/cmd_profile.cmd > %USERPROFILE%\cmd_profile.cmd
