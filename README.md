@@ -26,3 +26,6 @@ The multi-user profile is in the same directory where you used the installation 
 #### **This is not ALL limitations, but only the known ones (please, open issue if you found one that are not listed here)**  
 You can write anything in your profile, but there are some limitations:  
 * You ***cannot*** use cmd and anything that uses cmd under hood (*every* cmd instance uses your profile, so it will be infinite recursion)  
+
+### Screenshot:  
+![example.png](/example.png)
