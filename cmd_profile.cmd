@@ -10,6 +10,8 @@ cls
 @set "esc="
 :: Set prompt to user@pcname :: (current/dir) $ 
 prompt %USERNAME%@%COMPUTERNAME%$S::$S$C$P$F$S$$$S
+:: Set custom title for current command line window
+title Nyacmd (=^^-^^=)
 
 :: =================== HEADER ===================
 :: Windows logo
